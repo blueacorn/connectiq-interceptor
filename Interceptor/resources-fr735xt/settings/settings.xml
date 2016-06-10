@@ -1,0 +1,43 @@
+<settings>
+
+    <setting propertyKey="@Properties.PROP_THEME" title="@Strings.theme">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.dark</listEntry>
+            <listEntry value="1">@Strings.light</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.PROP_DATE_FORMAT" title="@Strings.dateFormat">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.mmdd</listEntry>
+            <listEntry value="1">@Strings.ddmm</listEntry>
+            <listEntry value="2">@Strings.ddDotmm</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.PROP_CUSTOM_FIELD1" title="@Strings.customField1">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.disabled</listEntry>
+            <listEntry value="1">@Strings.battery</listEntry>
+            <listEntry value="2">@Strings.date</listEntry>
+            <listEntry value="3">@Strings.steps</listEntry>
+            <listEntry value="4">@Strings.distance</listEntry>
+            <listEntry value="5">@Strings.calories</listEntry>
+            <listEntry value="6">@Strings.goalPercentage</listEntry>
+            <listEntry value="7">@Strings.heartRate</listEntry>
+        </settingConfig>
+    </setting>
+    
+    <setting propertyKey="@Properties.PROP_CUSTOM_FIELD2" title="@Strings.customField2">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.disabled</listEntry>
+            <listEntry value="1">@Strings.battery</listEntry>
+            <listEntry value="2">@Strings.date</listEntry>
+            <listEntry value="3">@Strings.steps</listEntry>
+            <listEntry value="4">@Strings.distance</listEntry>
+            <listEntry value="5">@Strings.calories</listEntry>
+            <listEntry value="6">@Strings.goalPercentage</listEntry>
+            <listEntry value="7">@Strings.heartRate</listEntry>
+        </settingConfig>
+	</setting>
+</settings>

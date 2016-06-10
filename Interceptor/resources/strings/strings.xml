@@ -1,0 +1,31 @@
+<strings>
+
+    <string id="AppName">Spacecraft interceptor</string>
+    
+    <string id="theme">Theme</string>
+    <string id="dark">Dark</string>
+    <string id="light">Light</string>
+    
+    <string id="customField1">Custom field 1</string>
+    <string id="customField2">Custom field 2</string>
+    <string id="dateFormat">Date format</string>
+    
+    <string id="steps">Steps</string>
+    <string id="distance">Distance</string>
+    <string id="calories">Calories</string>
+    <string id="heartRate">Heart rate</string>
+    <string id="goalPercentage">Goal percentage</string>
+    <string id="disabled">Disabled</string>
+    <string id="battery">Battery</string>
+    <string id="altitude">Altitude</string>
+    <string id="date">Date</string>
+    
+    <string id="mmdd">MM/DD</string>
+    <string id="ddmm">DD/MM</string>
+    <string id="ddDotmm">DD. MM.</string>
+
+    <string id="D_TIME_Y">15</string>
+    <string id="D_DF1_Y">156</string>
+    <string id="D_DF2_Y">176</string>
+
+</strings>

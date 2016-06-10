@@ -1,0 +1,8 @@
+<properties>
+
+    <property id="PROP_THEME" type="number">0</property>
+    <property id="PROP_DATE_FORMAT" type="number">0</property>
+    <property id="PROP_CUSTOM_FIELD1" type="number">0</property>
+    <property id="PROP_CUSTOM_FIELD2" type="number">1</property>
+
+</properties>

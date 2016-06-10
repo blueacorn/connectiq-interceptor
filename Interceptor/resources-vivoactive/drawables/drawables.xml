@@ -1,0 +1,8 @@
+<drawables>
+    <drawable-list id="bgDark">
+	    <bitmap id="bgDarkB" filename="bomber_dark.png" x="5" y="0"/>
+    </drawable-list>
+    <drawable-list id="bgLight">
+	    <bitmap id="bgLightB" filename="bomber_light.png" x="5" y="0"/>
+    </drawable-list>
+</drawables>

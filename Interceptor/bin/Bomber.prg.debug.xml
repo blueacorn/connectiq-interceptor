@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="31" pc="268435458" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="36" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="37" pc="268435504" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="38" pc="268435529" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="39" pc="268435572" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="40" pc="268435615" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="41" pc="268435667" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="42" pc="268435719" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="43" pc="268435771" symbol="onLayout"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="48" pc="268435786" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="49" pc="268435823" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="50" pc="268435864" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="52" pc="268435880" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="53" pc="268435905" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="54" pc="268435922" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="55" pc="268435942" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="56" pc="268435962" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="58" pc="268436007" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="59" pc="268436024" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="60" pc="268436044" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="61" pc="268436064" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="63" pc="268436109" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="64" pc="268436146" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="65" pc="268436187" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="67" pc="268436203" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="69" pc="268436228" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="70" pc="268436265" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="71" pc="268436306" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="73" pc="268436322" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="75" pc="268436347" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="76" pc="268436384" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="77" pc="268436425" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="79" pc="268436441" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="80" pc="268436466" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="81" pc="268436483" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="83" pc="268436499" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="84" pc="268436516" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="86" pc="268436532" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="87" pc="268436549" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="90" pc="268436565" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="91" pc="268436600" symbol="loadProperties"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="95" pc="268436638" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="96" pc="268436649" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="98" pc="268436654" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="99" pc="268436665" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="104" pc="268436744" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="105" pc="268436755" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="110" pc="268436834" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="111" pc="268436845" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="116" pc="268436916" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="117" pc="268436927" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="122" pc="268436998" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="123" pc="268437009" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="128" pc="268437080" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="129" pc="268437091" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="134" pc="268437162" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="135" pc="268437173" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="140" pc="268437244" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="141" pc="268437255" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="146" pc="268437326" symbol="getDataField"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="153" pc="268437334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="154" pc="268437362" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="155" pc="268437374" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="156" pc="268437381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="157" pc="268437398" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="158" pc="268437408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="159" pc="268437433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="160" pc="268437443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="161" pc="268437454" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="164" pc="268437467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="165" pc="268437532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="166" pc="268437564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="167" pc="268437584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="168" pc="268437616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="169" pc="268437666" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="170" pc="268437679" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="172" pc="268437702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="173" pc="268437715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="178" pc="268437741" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="179" pc="268437753" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="199" pc="268437781" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="200" pc="268437805" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="201" pc="268437815" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="202" pc="268437825" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="206" pc="268437838" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="207" pc="268437861" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="208" pc="268437871" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="209" pc="268437894" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="211" pc="268437907" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="212" pc="268437917" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="213" pc="268437945" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="214" pc="268437977" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="215" pc="268437987" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="216" pc="268438009" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="217" pc="268438022" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="218" pc="268438030" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="219" pc="268438058" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="220" pc="268438077" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="221" pc="268438090" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="222" pc="268438104" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="224" pc="268438117" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="225" pc="268438151" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="226" pc="268438191" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="227" pc="268438237" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="228" pc="268438283" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="229" pc="268438329" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="230" pc="268438375" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="231" pc="268438421" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="232" pc="268438461" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="233" pc="268438475" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="234" pc="268438503" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="235" pc="268438541" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="236" pc="268438569" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="237" pc="268438580" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="239" pc="268438618" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="251" pc="268438665" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="252" pc="268438689" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="253" pc="268438699" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="254" pc="268438709" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="258" pc="268438722" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="259" pc="268438770" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="260" pc="268438833" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="261" pc="268438865" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="272" pc="268438927" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="273" pc="268438951" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="274" pc="268438961" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="278" pc="268438974" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="279" pc="268438997" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="280" pc="268439029" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="291" pc="268439100" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="292" pc="268439124" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="293" pc="268439134" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="297" pc="268439147" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="298" pc="268439170" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="299" pc="268439202" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="310" pc="268439270" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="311" pc="268439294" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="312" pc="268439304" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="316" pc="268439317" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="317" pc="268439324" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="318" pc="268439339" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="319" pc="268439363" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="320" pc="268439435" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="323" pc="268439454" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="324" pc="268439486" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="335" pc="268439554" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="336" pc="268439578" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="337" pc="268439588" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="341" pc="268439601" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="342" pc="268439653" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="343" pc="268439676" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="344" pc="268439713" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="347" pc="268439735" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="349" pc="268439754" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="350" pc="268439786" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="361" pc="268439865" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="362" pc="268439889" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="363" pc="268439899" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="367" pc="268439912" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="368" pc="268439929" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="369" pc="268439939" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="370" pc="268439949" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="371" pc="268439956" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="372" pc="268439967" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="374" pc="268439992" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="375" pc="268440024" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="386" pc="268440101" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="387" pc="268440125" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="388" pc="268440135" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="392" pc="268440148" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="393" pc="268440171" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="394" pc="268440178" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="395" pc="268440215" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="397" pc="268440228" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="398" pc="268440251" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="400" pc="268440264" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="403" pc="268440280" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="405" pc="268440287" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="406" pc="268440339" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberView.mc" lineNum="407" pc="268440371" symbol="draw"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberApp.mc" lineNum="9" pc="268440436" symbol="initialize"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberApp.mc" lineNum="22" pc="268440463" symbol="getInitialView"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberApp.mc" lineNum="23" pc="268440493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberApp.mc" lineNum="29" pc="268440519" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\petr\\git\\byteworks\\Bomber\\source\\BomberApp.mc" lineNum="30" pc="268440532" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="44" pc="268440556" symbol="initialize"/>
+<entry filename="Rez" lineNum="45" pc="268440580" symbol="initialize"/>
+<entry filename="Rez" lineNum="49" pc="268440626" symbol="draw"/>
+<entry filename="Rez" lineNum="50" pc="268440633" symbol="draw"/>
+<entry filename="Rez" lineNum="51" pc="268440640" symbol="draw"/>
+<entry filename="Rez" lineNum="52" pc="268440653" symbol="draw"/>
+<entry filename="Rez" lineNum="53" pc="268440666" symbol="draw"/>
+<entry filename="Rez" lineNum="58" pc="268440691" symbol="drawComplex"/>
+<entry filename="Rez" lineNum="72" pc="268440742" symbol="initialize"/>
+<entry filename="Rez" lineNum="73" pc="268440766" symbol="initialize"/>
+<entry filename="Rez" lineNum="77" pc="268440812" symbol="draw"/>
+<entry filename="Rez" lineNum="78" pc="268440819" symbol="draw"/>
+<entry filename="Rez" lineNum="79" pc="268440826" symbol="draw"/>
+<entry filename="Rez" lineNum="80" pc="268440839" symbol="draw"/>
+<entry filename="Rez" lineNum="81" pc="268440852" symbol="draw"/>
+<entry filename="Rez" lineNum="86" pc="268440877" symbol="drawComplex"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="15" object="true" symbol="GoalPercentageField"/>
+<entry field="true" id="58" symbol="bgBitmap"/>
+<entry field="true" id="37" symbol="D_DF2_Y"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="35" symbol="dateFormat"/>
+<entry field="true" id="54" symbol="PROP_DATE_FORMAT"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="8388764" method="true" symbol="format"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="60" symbol="halfWidth"/>
+<entry field="true" id="59" symbol="halfHeight"/>
+<entry id="16" object="true" symbol="AltitudeField"/>
+<entry field="true" id="49" symbol="FG"/>
+<entry field="true" id="55" symbol="DATE_FORMAT"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="28" method="true" symbol="drawComplex"/>
+<entry id="10" object="true" symbol="DateField"/>
+<entry field="true" id="8388724" symbol="battery"/>
+<entry field="true" id="50" symbol="BG"/>
+<entry field="true" id="23" symbol="bgLightB"/>
+<entry field="true" id="8388737" symbol="calories"/>
+<entry field="true" id="32" symbol="date"/>
+<entry field="true" id="36" symbol="D_DF1_Y"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="39" symbol="AppName"/>
+<entry field="true" id="43" symbol="dark"/>
+<entry field="true" id="48" symbol="view"/>
+<entry field="true" id="29" symbol="image_bgDarkB"/>
+<entry field="true" id="45" symbol="disabled"/>
+<entry id="14" object="true" symbol="DistanceField"/>
+<entry id="17" object="true" symbol="BomberApp"/>
+<entry field="true" id="41" symbol="mmdd"/>
+<entry id="25" object="true" symbol="bgDark"/>
+<entry id="12" object="true" symbol="CaloriesField"/>
+<entry field="true" id="44" symbol="theme"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry field="true" id="38" symbol="ddmm"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389286" method="true" symbol="loadProperties"/>
+<entry field="true" id="47" symbol="D_TIME_Y"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="30" symbol="timeFont"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="31" symbol="batteryFont"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8388963" symbol="altitude"/>
+<entry id="11" object="true" symbol="StepsField"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389348" symbol="font"/>
+<entry field="true" id="57" symbol="df2"/>
+<entry field="true" id="56" symbol="df1"/>
+<entry field="true" id="34" symbol="customField2"/>
+<entry field="true" id="33" symbol="customField1"/>
+<entry id="8" object="true" symbol="BomberView"/>
+<entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+<entry field="true" id="8388911" symbol="distance"/>
+<entry id="21" module="true" symbol="Layouts"/>
+<entry field="true" id="53" symbol="PROP_DATAFIELD2"/>
+<entry field="true" id="52" symbol="PROP_DATAFIELD1"/>
+<entry field="true" id="8388912" symbol="steps"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="9" object="true" symbol="Battery"/>
+<entry field="true" id="27" symbol="image_bgLightB"/>
+<entry field="true" id="22" symbol="bgDarkB"/>
+<entry field="true" id="46" symbol="goalPercentage"/>
+<entry field="true" id="51" symbol="PROP_THEME"/>
+<entry id="20" module="true" symbol="Menus"/>
+<entry field="true" id="8388960" symbol="heartRate"/>
+<entry field="true" id="40" symbol="ddDotmm"/>
+<entry id="26" object="true" symbol="bgLight"/>
+<entry field="true" id="18" symbol="fg"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="13" object="true" symbol="HeartRateField"/>
+<entry field="true" id="19" symbol="bg"/>
+<entry id="61" method="true" symbol="getDataField"/>
+<entry field="true" id="42" symbol="light"/>
+</symbolTable>
+<localVars>
+<entry endPc="268437738" name="hour" stackId="4" startPc="268437334"/>
+<entry endPc="268437738" name="timeString" stackId="5" startPc="268437334"/>
+<entry endPc="268437738" name="clockTime" stackId="3" startPc="268437334"/>
+<entry endPc="268437738" name="timeFormat" stackId="2" startPc="268437334"/>
+<entry endPc="268438662" name="state" stackId="2" startPc="268437838"/>
+<entry endPc="268438662" name="remainingBattery" stackId="4" startPc="268437838"/>
+<entry endPc="268438662" name="statusWidth" stackId="10" startPc="268437838"/>
+<entry endPc="268438662" name="startX" stackId="7" startPc="268437838"/>
+<entry endPc="268438662" name="totalWidth" stackId="6" startPc="268437838"/>
+<entry endPc="268438662" name="textWidth" stackId="5" startPc="268437838"/>
+<entry endPc="268438662" name="y" stackId="3" startPc="268437838"/>
+<entry endPc="268438662" name="x" stackId="8" startPc="268437838"/>
+<entry endPc="268438662" name="points" stackId="9" startPc="268437838"/>
+<entry endPc="268438662" name="statusWidthInt" stackId="11" startPc="268437838"/>
+<entry endPc="268438924" name="currentDateStamp" stackId="3" startPc="268438722"/>
+<entry endPc="268438924" name="date" stackId="2" startPc="268438722"/>
+<entry endPc="268439097" name="steps" stackId="2" startPc="268438974"/>
+<entry endPc="268439267" name="cals" stackId="2" startPc="268439147"/>
+<entry endPc="268439451" name="hrHist" stackId="3" startPc="268439339"/>
+<entry endPc="268439551" name="hr" stackId="2" startPc="268439317"/>
+<entry endPc="268439862" name="units" stackId="2" startPc="268439601"/>
+<entry endPc="268439862" name="dst" stackId="3" startPc="268439601"/>
+<entry endPc="268440098" name="steps" stackId="4" startPc="268439912"/>
+<entry endPc="268440098" name="goal" stackId="3" startPc="268439912"/>
+<entry endPc="268440098" name="percent" stackId="5" startPc="268439912"/>
+<entry endPc="268440098" name="info" stackId="2" startPc="268439912"/>
+<entry endPc="268440433" name="units" stackId="3" startPc="268440148"/>
+<entry endPc="268440433" name="alt" stackId="2" startPc="268440148"/>
+<entry endPc="268440688" name="pWidth" stackId="4" startPc="268440626"/>
+<entry endPc="268440688" name="pY" stackId="3" startPc="268440626"/>
+<entry endPc="268440688" name="pX" stackId="2" startPc="268440626"/>
+<entry endPc="268440688" name="pHeight" stackId="5" startPc="268440626"/>
+<entry endPc="268440874" name="pWidth" stackId="4" startPc="268440812"/>
+<entry endPc="268440874" name="pY" stackId="3" startPc="268440812"/>
+<entry endPc="268440874" name="pX" stackId="2" startPc="268440812"/>
+<entry endPc="268440874" name="pHeight" stackId="5" startPc="268440812"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BomberView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="loadProperties" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="getDataField" parent="BomberView">
+<param id="type"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BomberView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="BomberView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Battery">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="bgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Battery">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DateField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<param id="fmt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="DateField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="StepsField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="StepsField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="CaloriesField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="CaloriesField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="HeartRateField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="HeartRateField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="DistanceField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="DistanceField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="GoalPercentageField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="GoalPercentageField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="AltitudeField">
+<param id="params"/>
+<param id="fgColor"/>
+<param id="fnt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="AltitudeField">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BomberApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BomberApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="BomberApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BomberApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="BomberApp">
+<documentation><![CDATA[<div class="description"> New app settings have been received so trigger a UI update<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="bgDark">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="bgDark">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="bgDark">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="bgLight">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="bgLight">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawComplex" parent="bgLight">
+<param id="dc"/>
+<param id="pX"/>
+<param id="pY"/>
+<param id="pWidth"/>
+<param id="pHeight"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

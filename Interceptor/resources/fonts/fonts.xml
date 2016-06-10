@@ -1,0 +1,4 @@
+<fonts>
+	<font id="timeFont" filename="timefont.fnt" filter="0123456789:"/>
+	<font id="batteryFont" filename="battery.fnt" filter="0123456789%ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz%|-.:/ "/>
+</fonts>
